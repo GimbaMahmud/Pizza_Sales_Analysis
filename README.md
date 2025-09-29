@@ -20,5 +20,4 @@ pizza-sales-analysis
 ## Author
 **Mahmud Gimba**
 
-This project is task 3  of Data Science Cohort 3 Class with Tech Crush. the aim of the task is to practice data analysis, visualization, and reporting using Python.
-
+This project is  Data Science Cohort 3, task 3 with Tech Crush. the aim of the task is to practice data analysis, visualization, and reporting using Python.
